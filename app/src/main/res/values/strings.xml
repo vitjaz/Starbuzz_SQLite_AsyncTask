@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Starbuzz</string>
+    <string name="starbuzz_logo">Starbuzz logo</string>
+    <string name="favorite">Favorite</string>
+    <string name="favorites">Favorites</string>
+
+    <string-array name="values">
+        <item>Напитки</item>
+        <item>Блюда</item>
+        <item>Рестораны</item>
+    </string-array>
+</resources>

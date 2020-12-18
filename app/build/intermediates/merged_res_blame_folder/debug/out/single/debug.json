@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_top_level.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\layout\\activity_top_level.xml"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_filter.jpg.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\drawable\\filter.jpg"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_latte.jpg.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\drawable\\latte.jpg"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starbuzz.jpg.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\drawable\\starbuzz.jpg"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drink_category.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\layout\\activity_drink_category.xml"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_drink.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\layout\\activity_drink.xml"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cappucino.jpg.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\drawable\\cappucino.jpg"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Starbuzz\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Starbuzz\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
